@@ -3,6 +3,7 @@
 int i,j,n,arr[20],temp;
 
 int insertion(int arr[]);
+int imranVariable = 0;
 
 int main()
 {
